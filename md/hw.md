@@ -209,7 +209,10 @@ export default Directory_40;
 ## P5
 
 ## P6
-
+![](https://i.imgur.com/dKLJfZb.png)
+![](https://i.imgur.com/GXYT1Xi.png)
+![](https://i.imgur.com/MB9yN5W.png)
+![](https://i.imgur.com/hXXnbnK.png)
 ## P7
 
 ## P8
