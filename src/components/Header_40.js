@@ -16,7 +16,6 @@ const Header_40 = () => {
                     <Link to="/contact_40" className="option">Contact</Link>
                     <Link to="/signin_40" className="option">Sign In</Link>
                     <div className="cart-icon" onclick="cartToggle()">
-                        <img className="shopping-icon" src="./assets/shopping-bag.svg" alt="" />
                     </div>
                 </div>
             </div>
