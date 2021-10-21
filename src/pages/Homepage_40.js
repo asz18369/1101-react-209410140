@@ -1,11 +1,11 @@
 import React from 'react';
-import Directory_40 from '../components/Directory_40';
+import Directory2_40 from '../components/Directory2_40';
 import './Homepage_40.scss'
 
 const Homepage_40 = ()=>{
     return(
         <div className='homepage'>
-            <Directory_40/>
+            <Directory2_40/>
         </div>
     )
 }
