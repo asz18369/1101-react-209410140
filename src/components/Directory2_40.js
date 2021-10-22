@@ -23,7 +23,7 @@ const Directory2_40 = () => {
             { menuItems.map( item =>{
                 const {id, name, remote_url, size} = item;
                 return (
-                    <MenuItem_40 key={id} name={name} remoteUrl={remote_url} size={size} />
+                    <MenuItem_40 key={id} name={name} remote_url={remote_url} size={size} />
                 )
             })
             }

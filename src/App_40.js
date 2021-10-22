@@ -1,4 +1,3 @@
-import React from 'react';
 import './App_40.scss';
 import Homepage_40 from './pages/Homepage_40';
 import {Switch,Route} from 'react-router-dom'
